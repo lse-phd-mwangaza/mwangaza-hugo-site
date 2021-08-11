@@ -1,0 +1,27 @@
+baseURL = 'https://lse-phd-mwangaza.github.io/'
+languageCode = 'en-us'
+title = "Mwangaza"
+theme = "ananke"
+
+[params]
+    featured_image = "/img/lse_background.jpg"
+    site_logo = ""
+    facebook = "https://www.lse.ac.uk/"
+    twitter = "https://www.lse.ac.uk/"
+    linkedin = "https://www.lse.ac.uk/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[[menu.main]]
+    name = "Members"
+    url = "/members"
+
+[[menu.main]]
+    name = "Events"
+    url = "/events"
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
